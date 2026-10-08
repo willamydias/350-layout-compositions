@@ -1,3 +1,7 @@
+<p align="right">
+  <b>🇧🇷 Português</b> | <a href="../zh-CN/03-editorial-advertising.md">🇨🇳 简体中文</a>
+</p>
+
 # Impressão, publicação e publicidade · 36 tipos
 Abrange a estrutura de layout de mídias impressas comuns, como pôsteres, livros, embalagens e anúncios.
 [← Voltar ao catálogo geral de 350 tipos de composição tipográfica](README.md)

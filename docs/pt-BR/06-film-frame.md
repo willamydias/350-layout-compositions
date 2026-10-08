@@ -1,3 +1,7 @@
+<p align="right">
+  <b>🇧🇷 Português</b> | <a href="../zh-CN/06-film-frame.md">🇨🇳 简体中文</a>
+</p>
+
 # Composição de telas de cinema e televisão · 14 tipos
 Organize quadros individuais em imagens dinâmicas com base na relação entre lente, cena, posição da câmera e quadro.
 [← Voltar ao catálogo geral de 350 tipos de composição tipográfica](README.md)

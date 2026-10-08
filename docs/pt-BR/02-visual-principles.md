@@ -1,3 +1,7 @@
+<p align="right">
+  <b>🇧🇷 Português</b> | <a href="../zh-CN/02-visual-principles.md">🇨🇳 简体中文</a>
+</p>
+
 #Princípios visuais e padrões de leitura · 45 tipos
 Use princípios da Gestalt, hierarquia visual e caminhos de leitura para explicar como as informações são vistas e compreendidas.
 [← Voltar ao catálogo geral de 350 tipos de composição tipográfica](README.md)

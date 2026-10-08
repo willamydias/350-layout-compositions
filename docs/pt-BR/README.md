@@ -1,3 +1,7 @@
+<p align="right">
+  <b>🇧🇷 Português</b> | <a href="../zh-CN/README.md">🇨🇳 简体中文</a>
+</p>
+
 # 350 tipos de layouts · Ilustrações classificadas
 Este é um conjunto de ilustrações de conhecimento tipográfico, desde o básico da composição até mídias específicas. Os 350 layouts estão organizados em 8 categorias de primeiro nível e 33 temas de segundo nível; expanda as categorias para visualizar os temas e clique no tema para ir diretamente para a galeria correspondente.
 [← Voltar à página inicial do projeto](../../README.md)

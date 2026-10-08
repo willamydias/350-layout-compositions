@@ -1,3 +1,7 @@
+<p align="right">
+  <b>🇧🇷 Português</b> | <a href="../zh-CN/08-presentation.md">🇨🇳 简体中文</a>
+</p>
+
 # Página de apresentação · 16 tipos
 Abrange layouts de slides como capa, índice, conteúdo, comparação, dados, processo e imagem completa.
 [← Voltar ao catálogo geral de 350 tipos de composição tipográfica](README.md)

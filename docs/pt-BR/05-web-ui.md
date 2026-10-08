@@ -1,3 +1,7 @@
+<p align="right">
+  <b>🇧🇷 Português</b> | <a href="../zh-CN/05-web-ui.md">🇨🇳 简体中文</a>
+</p>
+
 # Web e UI · 79 tipos
 Inclui navegação, conteúdo, formulários e padrões de layout responsivos para sites e interfaces de produtos.
 [← Voltar ao catálogo geral de 350 tipos de composição tipográfica](README.md)

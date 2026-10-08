@@ -1,3 +1,7 @@
+<p align="right">
+  <b>🇧🇷 Português</b> | <a href="../zh-CN/01-composition-logic.md">🇨🇳 简体中文</a>
+</p>
+
 # Lógica de composição · 86 tipos
 Desde proporções clássicas, formas geométricas, hierarquia espacial até organização de pontos de vista, estabeleça o esqueleto básico da imagem.
 [← Voltar ao catálogo geral de 350 tipos de composição tipográfica](README.md)

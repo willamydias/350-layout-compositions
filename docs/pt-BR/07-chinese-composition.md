@@ -1,3 +1,7 @@
+<p align="right">
+  <b>🇧🇷 Português</b> | <a href="../zh-CN/07-chinese-composition.md">🇨🇳 简体中文</a>
+</p>
+
 # Composição tradicional chinesa · 20 tipos
 Organizar a gestão do espaço, a perspectiva dispersa e a composição na pintura chinesa e na visão tradicional.
 [← Voltar ao catálogo geral de 350 tipos de composição tipográfica](README.md)

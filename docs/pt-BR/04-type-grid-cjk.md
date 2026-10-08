@@ -1,3 +1,7 @@
+<p align="right">
+  <b>🇧🇷 Português</b> | <a href="../zh-CN/04-type-grid-cjk.md">🇨🇳 简体中文</a>
+</p>
+
 # Fontes, grades e scripts do Leste Asiático · 54 tipos
 Concentre-se no layout da fonte, sistema de grade e tipografia horizontal, vertical e mista chinesa e ocidental.
 [← Voltar ao catálogo geral de 350 tipos de composição tipográfica](README.md)

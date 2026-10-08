@@ -6,21 +6,61 @@
 De composições clássicas e princípios visuais à publicação de anúncios, grades de fontes, interfaces de usuário da web, filmes e televisão, composições e apresentações tradicionais chinesas: 350 tipos de tipografia, organizados em um mapa de conhecimento navegável, pesquisável e baixável de acordo com 8 categorias de primeiro nível e 33 temas de segundo nível.
 > Esta é uma versão nova e ampliada do projeto original "100 Tipos de Tipografia". A versão antiga das 100 imagens de alta resolução, miniaturas e galeria abaixo permanecem intactas e os links originais continuam disponíveis.
 ## Navegue pela nova versão
-**[Abra 350 tipos de ilustrações de classificação completas →](docs/350/README.md)**　·　[Baixar todas as imagens](https://github.com/nevertoday/350-layout-compositions/releases/latest/download/350-layout-compositions-images.zip)　·[Pesquisar diretório de dados](v2/catalog.csv)
+**[Abra 350 tipos de ilustrações de classificação completas →](docs/350/README.md)**　·　[Baixar todas as imagens](https://github.com/nevertoday/350-layout-compositions/releases/latest/download/350-layout-compositions-images.zip)　·[Catálogo de Dados (CSV)](v2/catalog.pt-BR.csv) · [Catálogo (JSON)](v2/catalog.pt-BR.json)
 ### Categoria de primeiro nível · Alternar como guia
 <p align="center">
-  <a href="docs/350/01-composition-logic.md"><kbd>01 构图逻辑 · 86</kbd></a>
-  <a href="docs/350/02-visual-principles.md"><kbd>02 视觉原则 · 45</kbd></a>
-  <a href="docs/350/03-editorial-advertising.md"><kbd>03 出版广告 · 36</kbd></a>
-  <a href="docs/350/04-type-grid-cjk.md"><kbd>04 字体网格 · 54</kbd></a>
+  <a href="docs/350/01-composition-logic.md"><kbd>01 Lógica de Composição · 86</kbd></a>
+  <a href="docs/350/02-visual-principles.md"><kbd>02 Princípios Visuais · 45</kbd></a>
+  <a href="docs/350/03-editorial-advertising.md"><kbd>03 Imprensa e Publicidade · 36</kbd></a>
+  <a href="docs/350/04-type-grid-cjk.md"><kbd>04 Tipografia e Grades · 54</kbd></a>
 </p>
 
 <p align="center">
-  <a href="docs/350/05-web-ui.md"><kbd>05 网页 UI · 79</kbd></a>
-  <a href="docs/350/06-film-frame.md"><kbd>06 影视画面 · 14</kbd></a>
-  <a href="docs/350/07-chinese-composition.md"><kbd>07 中国传统 · 20</kbd></a>
-  <a href="docs/350/08-presentation.md"><kbd>08 演示文稿 · 16</kbd></a>
+  <a href="docs/350/05-web-ui.md"><kbd>05 Web e UI · 79</kbd></a>
+  <a href="docs/350/06-film-frame.md"><kbd>06 Quadros de Cinema · 14</kbd></a>
+  <a href="docs/350/07-chinese-composition.md"><kbd>07 Composição Tradicional · 20</kbd></a>
+  <a href="docs/350/08-presentation.md"><kbd>08 Apresentações · 16</kbd></a>
 </p>
+
+## 🎯 Guia de Uso Rápido e Aplicações Práticas
+
+Este acervo é um **sistema de referência visual e vocabulário técnico de layout e composição**. Pode ser utilizado de três formas principais:
+
+1. **Consulta Visual para Design**: Navegue pelas galerias categorizadas em [`docs/pt-BR/`](docs/pt-BR/README.md) para encontrar soluções estruturais para interfaces web, apresentações, cartazes ou impressos.
+2. **Datasets e Automação**: Consuma o catálogo completo de dados em [`v2/catalog.pt-BR.json`](v2/catalog.pt-BR.json) ou [`v2/catalog.pt-BR.csv`](v2/catalog.pt-BR.csv) em scripts, automações ou importações para o Figma.
+3. **Engenharia de Prompt para IA (Geração de Canvas, UI e Imagens)**: Use a taxonomia e as regras formais das 350 composições para orientar modelos de inteligência artificial generativa com precisão matemática.
+
+---
+
+## 🎨 Como Utilizar em Prompts de Geração de Canvas, UI e Imagens
+
+Modelos generativos de imagem e assistentes de design (como **ChatGPT Canvas**, **Claude Artifacts**, **Midjourney**, **DALL-E 3** e **Figma AI**) frequentemente produzem layouts genéricos quando solicitados com termos vagos como *"faça um design moderno e limpo"*.
+
+Ao especificar a **composição matemática e o código do padrão**, a IA recebe uma restrição estrutural rígida, gerando resultados profissionais.
+
+### 📐 Estrutura Recomendada de Prompt (Fórmula R-O-C-S-K)
+
+| Componente | Função | Exemplo |
+| :--- | :--- | :--- |
+| **[Role]** | Define a especialidade do modelo | *"Aja como um arquiteto sênior de UI e designer gráfico suíço."* |
+| **[Object]** | Especifica a peça e conteúdo | *"Crie a estrutura de um dashboard SaaS de análise financeira."* |
+| **[Composition]** | **Nome e regra exata do catálogo** | *"Aplique a composição `001 - Regra dos Terços` com `013 - Espaço Negativo dominante à direita` e `016 - Alinhamento Centralizado`."* |
+| **[Style & Grid]** | Sistema de grid e tipografia | *"Grid modular de 12 colunas, respiro de 16px, tipografia sem serifa estilo Neo-Grotesque, alto contraste."* |
+| **[Key Rules]** | Restrições funcionais | *"Hierarquia estrita: métrica principal como ponto focal primário, sem elementos decorativos sem propósito."* |
+
+### 📋 Exemplos de Prompts Prontos para Uso
+
+#### Exemplo 1: Para ChatGPT Canvas / Claude Artifacts (Layout Web / Código HTML & CSS)
+> *"Aja como um arquiteto frontend e designer de interface. No Canvas, crie o código de uma Landing Page responsiva em Tailwind CSS.  
+> **Composição:** Utilize o padrão `035 (Composição em Z)` para conduzir a leitura do usuário do logotipo até o botão de CTA, combinado com `013 (Espaço Negativo)` no hero section e `008 (Grade Modular)` para a seção de funcionalidades. Mantenha proporções equilibradas e hierarquia visual rigorosa."*
+
+#### Exemplo 2: Para Midjourney / DALL-E (Geração de Pôster / Imagem Editorial)
+> `Swiss graphic design poster for an architecture biennial, [005 - Diagonal Composition] intersecting with [002 - Golden Ratio grid], stark brutalist typography, dynamic leading lines, intentional negative space, high contrast, clean vector aesthetic, 8k resolution --ar 3:4`
+
+#### Exemplo 3: Para Apresentações e Slides (Keynote / Pitch Deck)
+> *"Estruture um slide executivo para apresentação de resultados trimestrais. Aplique a composição `335 (Layout de Comparação Bipartida com Eixo Central)`: lado esquerdo focado na métrica chave em destaque tipográfico e lado direito com grade de 3 cartões de contexto (`007 - Regra dos Ímpares`)."*
+
+---
 
 <!-- default-gallery:start -->
 ## Exibição padrão · 86 lógicas de composição
